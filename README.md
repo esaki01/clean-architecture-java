@@ -10,3 +10,4 @@ This repository is for understanding "clean architecture".
 
 - OS: macOS Mojave 10.14.3
 - Language: Java 12
+- Framework: Spring Boot 2.1.3
