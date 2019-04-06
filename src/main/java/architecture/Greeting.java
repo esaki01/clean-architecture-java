@@ -1,4 +1,4 @@
-package hello;
+package architecture;
 
 public class Greeting {
 
