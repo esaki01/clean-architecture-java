@@ -3,8 +3,8 @@
  */
 package architecture.interfaces.controllers;
 
-import architecture.domain.dtos.UserCreateInputData;
-import architecture.domain.dtos.UserCreateOutputData;
+import architecture.domainddd.dtos.UserCreateInputData;
+import architecture.domainddd.dtos.UserCreateOutputData;
 import architecture.usecases.UserCreateUseCase;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

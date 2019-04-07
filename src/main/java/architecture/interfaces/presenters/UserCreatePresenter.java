@@ -3,7 +3,7 @@ UserCreateのユースケースが出力するデータをViewのためのViewMo
  */
 package architecture.interfaces.presenters;
 
-import architecture.domain.dtos.UserCreateOutputData;
+import architecture.domainddd.dtos.UserCreateOutputData;
 
 import java.util.Date;
 

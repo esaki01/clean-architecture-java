@@ -3,7 +3,7 @@
  */
 package architecture.interfaces.gateways.impl;
 
-import architecture.domain.entities.UserEntity;
+import architecture.domainddd.entities.UserEntity;
 import architecture.interfaces.gateways.UserRepository;
 
 import java.util.List;

@@ -3,7 +3,7 @@ UserRepositoryのインターフェス.
  */
 package architecture.interfaces.gateways;
 
-import architecture.domain.entities.UserEntity;
+import architecture.domainddd.entities.UserEntity;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
