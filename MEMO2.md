@@ -14,18 +14,18 @@
 
 ### Enterprise Business Rules
 
-#### Entities: architecture.domain
+- Entities: architecture.domain
 
 ### Application Business Rules
 
-#### Use Cases: architecture.usecases
+- Use Cases: architecture.usecases
 
-##### Interactor: architecture.usecases.interactor
+- (Interactor: architecture.usecases.interactor)
 
 ### Interface Adapters: architecture.interfaces
 
-#### Controllers: architecture.interfaces.controllers
+- Controllers: architecture.interfaces.controllers
 
-#### Gateways: architecture.interfaces.gateways
+- Gateways: architecture.interfaces.gateways
 
-#### Presenters: architecture.interfaces.presenters
+- Presenters: architecture.interfaces.presenters
