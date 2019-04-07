@@ -22,7 +22,7 @@
 
 - (Interactor: architecture.usecases.interactor)
 
-### Interface Adapters: architecture.interfaces
+### Interface Adapters
 
 - Controllers: architecture.interfaces.controllers
 
