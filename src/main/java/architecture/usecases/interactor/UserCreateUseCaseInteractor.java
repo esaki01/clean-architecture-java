@@ -10,13 +10,11 @@ import architecture.interfaces.gateways.UserRepository;
 import architecture.interfaces.presenters.UserCreatePresenter;
 import architecture.usecases.UserCreateUseCase;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
 import java.util.Date;
 import java.util.List;
 
-@Service
 public class UserCreateUseCaseInteractor implements UserCreateUseCase {
 
     // インターフェスで受け取っているので依存していない

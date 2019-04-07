@@ -5,7 +5,9 @@ package architecture.usecases;
 
 import architecture.domain.dtos.UserCreateInputData;
 import architecture.domain.dtos.UserCreateOutputData;
+import org.springframework.stereotype.Service;
 
+@Service
 public interface UserCreateUseCase {
     /**
      * ユーザーを作成する.
