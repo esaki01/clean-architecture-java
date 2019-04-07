@@ -3,8 +3,8 @@
  */
 package architecture.usecases;
 
-import architecture.domainddd.dtos.UserCreateInputData;
-import architecture.domainddd.dtos.UserCreateOutputData;
+import architecture.domain.dtos.UserCreateInputData;
+import architecture.domain.dtos.UserCreateOutputData;
 import org.springframework.stereotype.Service;
 
 @Service

@@ -1,7 +1,7 @@
 /*
 UserEntityクラス.
  */
-package architecture.domainddd.entities;
+package architecture.domain.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,7 +1,7 @@
 /*
 UserCreateのユースケースで利用するInputData.
  */
-package architecture.domainddd.dtos;
+package architecture.domain.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

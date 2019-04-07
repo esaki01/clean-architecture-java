@@ -3,9 +3,9 @@
  */
 package architecture.usecases.interactor;
 
-import architecture.domainddd.dtos.UserCreateInputData;
-import architecture.domainddd.dtos.UserCreateOutputData;
-import architecture.domainddd.entities.UserEntity;
+import architecture.domain.dtos.UserCreateInputData;
+import architecture.domain.dtos.UserCreateOutputData;
+import architecture.domain.entities.UserEntity;
 import architecture.interfaces.gateways.UserRepository;
 import architecture.interfaces.presenters.UserCreatePresenter;
 import architecture.usecases.UserCreateUseCase;
