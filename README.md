@@ -17,3 +17,8 @@ This repository is for understanding "clean architecture".
 - https://qiita.com/nrslib/items/a5f902c4defc83bd46b8
 - https://qiita.com/kondei/items/41c28674c1bfd4156186
 - https://qiita.com/little_hand_s/items/2040fba15d90b93fc124
+
+## Memo
+
+- [クリーンアーキテクチャ理解のためのメモ](./MEMO1.md)
+- [Clean Architecture Java のアーキテクチャについてのメモ](./MEMO2.md)
