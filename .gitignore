@@ -26,3 +26,4 @@ hs_err_pid*
 clean-architecture-java.iml
 target
 .gradle
+out
