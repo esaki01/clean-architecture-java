@@ -14,6 +14,7 @@ This repository is for understanding "clean architecture".
 
 ## Reference
 
+- https://leanpub.com/clean-architectures-in-python
 - https://qiita.com/nrslib/items/a5f902c4defc83bd46b8
 - https://qiita.com/kondei/items/41c28674c1bfd4156186
 - https://qiita.com/little_hand_s/items/2040fba15d90b93fc124
